@@ -1,3 +1,10 @@
+
+
+<img width="912" height="501" alt="Screenshot 2025-10-29 233341" src="https://github.com/user-attachments/assets/5400a69b-c10e-4026-ad49-9a119489a682" />
+<img width="896" height="505" alt="Screenshot 2025-10-29 233353" src="https://github.com/user-attachments/assets/950fac0b-bf8a-4dbe-b4a2-aea6603321e6" />
+<img width="901" height="507" alt="Screenshot 2025-10-29 233405" src="https://github.com/user-attachments/assets/623bc6fb-f17f-40df-9d5c-1ecf70d4cfae" />
+
+
 🏨 Hotel Booking Power BI Dashboard
 📊 Project Overview
 
